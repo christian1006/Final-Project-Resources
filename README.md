@@ -3,55 +3,9 @@
 This gitbook contains a variety of tools, libraries, and techniques you might want to try out in your final projects.
 
 
-judgement
+The primary learning objective of your final project is __Judgement__.  Take the big picture, what skills do you want to demonstrate and what's the most effective way for you to demonstrate these skills in a single project? How can you achieve this in 3 weeks?  
 
-take the big picture
-	what do you want to demonstrate
-		programming
-		design
-		architecture
-		business fit
-		...
-	to build or to use
-		build from scratch the things that showcase your focus
-		use everything else: saas, library, api, framework, ...
-
-gitbook
-	- will build on collaboration gitbook
-	setting goals
-		what skill do you want to demonstrate
-		big-picture guidelines
-		what will your project be/do
-		collaborative or not
-			business/dev?
-			dev/dev?
-	planning
-		specifications
-		libraries
-		schedule
-			- this is part of your project
-			detailed
-			written out
-		test cases (bdd)
-	development
-		setup
-			environment
-			framework
-			tests
-		rollout
-			by schedule you made
-			keep track of how good your estimates were
-		final q/a
-			all tests are there
-			repo is documented & complete
-			issues & future plans
-	self-assessment
-		- reflect on the process and result
-		how close was the schedule
-		how closely did you match your requirements	
-
-
-
+* [Solution Design](http://elewa.education/2018/01/20/solution-design/)
 
 ___
 ___
